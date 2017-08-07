@@ -1,0 +1,10 @@
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\bin\Debug\VBNetHelloWorld.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\bin\Debug\VBNetHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\bin\Debug\VBNetHelloWorld.pdb
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\bin\Debug\VBNetHelloWorld.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.vbprojResolveAssemblyReference.cache
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.Resources.resources
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.vbproj.GenerateResource.Cache
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\VBNetHelloWorld\obj\Debug\VBNetHelloWorld.pdb
