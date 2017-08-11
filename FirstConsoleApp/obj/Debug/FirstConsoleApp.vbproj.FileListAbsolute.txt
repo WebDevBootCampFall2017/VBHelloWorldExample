@@ -1,0 +1,9 @@
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\bin\Debug\FirstConsoleApp.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\obj\Debug\FirstConsoleApp.Resources.resources
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\obj\Debug\FirstConsoleApp.vbproj.GenerateResource.Cache
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\obj\Debug\FirstConsoleApp.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

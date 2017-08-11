@@ -1,0 +1,10 @@
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\bin\Debug\IntException.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\bin\Debug\IntException.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\bin\Debug\IntException.pdb
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\bin\Debug\IntException.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.vbprojResolveAssemblyReference.cache
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.Resources.resources
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.vbproj.GenerateResource.Cache
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.exe
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.xml
+c:\users\namin\documents\visual studio 2017\Projects\VBNetHelloWorld\IntException\obj\Debug\IntException.pdb

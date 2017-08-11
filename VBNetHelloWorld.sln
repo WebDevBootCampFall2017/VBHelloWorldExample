@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBNetHelloWorld", "VBNetHelloWorld\VBNetHelloWorld.vbproj", "{A922EFFB-F67E-4C40-A15A-4926F29AEDF5}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FirstConsoleApp", "FirstConsoleApp\FirstConsoleApp.vbproj", "{0EC52637-8849-4E7C-AA98-AAADE1B88D77}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntException", "IntException\IntException.vbproj", "{48D8E2CD-084D-4AC9-8E0F-09110CC7916D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A922EFFB-F67E-4C40-A15A-4926F29AEDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A922EFFB-F67E-4C40-A15A-4926F29AEDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A922EFFB-F67E-4C40-A15A-4926F29AEDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC52637-8849-4E7C-AA98-AAADE1B88D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC52637-8849-4E7C-AA98-AAADE1B88D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC52637-8849-4E7C-AA98-AAADE1B88D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC52637-8849-4E7C-AA98-AAADE1B88D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D8E2CD-084D-4AC9-8E0F-09110CC7916D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D8E2CD-084D-4AC9-8E0F-09110CC7916D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D8E2CD-084D-4AC9-8E0F-09110CC7916D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D8E2CD-084D-4AC9-8E0F-09110CC7916D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
